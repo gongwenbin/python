@@ -7,6 +7,8 @@ import subprocess
 import smtplib
 import string
 
+def testhaha():
+    pass
 def go_mail(result):
     HOST="smtp.idmt.com.cn"
     SUBJECT="ping mail.gdc-world.com"
